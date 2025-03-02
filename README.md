@@ -59,7 +59,8 @@ A web-based fitness tracking application built using **Angular 14+** and **Tailw
 
 ## 🌐 Live Demo
 
-Deployed at:  ( health-tracker-umber.vercel.app) 
+<a href="https://health-tracker-umber.vercel.app" target="_blank">Live Demo</a>
+
 
            
 USE : Username as  1234 and password as 1234
